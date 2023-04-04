@@ -9,7 +9,7 @@
   Wahatapp AI Bot For Termux
 </p>
 <p align="center">
-<a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 </p>
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-<a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Whatsapp-ChatGPT-green.svg"></a>
-<a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?style=flat-square"></a>
-<a href="https://termux.xyz/hack-install-free-fire-phishing-tool-with-termux/"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUMAN-green.svg"></a>
+<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Whatsapp-ChatGPT-green.svg"></a>
+<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?style=flat-square"></a>
+<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUNNY-green.svg"></a>
 </p>
 
 ##
@@ -76,7 +76,7 @@ This is a source code to build a WhatsApp bot using OpenAI bot and Node.js. The 
 
 ### 🎥 WATCH VIDEO 
 
-<p align="center"> <a href="https://play.onlinehacking.xyz/v/ZIwSEz"><img title="Made in INDIA" width="58%" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp"></a>
+
 
 ## ✅ INSTALLATION [ Linux / Termux ] :
 ```
