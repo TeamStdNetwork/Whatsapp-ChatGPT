@@ -1,4 +1,4 @@
-# Using Tutorial : https://StdNetwork.blogspot.com/
+# Using Tutorial : https://TeamStdNetwork.blogspot.com/
 
   <p>&nbsp;</p><p><br /></p><p><br /></p><p><br /></p>
   <p>&nbsp;</p><p><br /></p><p><br /></p>
@@ -9,7 +9,7 @@
   Wahatapp AI Bot For Termux
 </p>
 <p align="center">
-<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://TeamStdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 </p>
@@ -17,10 +17,10 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge&color=blue">
-     <img src="https://img.shields.io/github/stars/StdNetwork/Whatsapp-ChatGPT?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/StdNetwork/Whatsapp-ChatGPT?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/StdNetwork/Whatsapp-ChatGPT?color=red&style=for-the-badge">
-    <img src="https://img.shields.io/github/license/StdNetwork/Whatsapp-ChatGPT?style=for-the-badge&color=blue">
+     <img src="https://img.shields.io/github/stars/TeamStdNetwork/Whatsapp-ChatGPT?style=for-the-badge&color=magenta">
+  <img src="https://img.shields.io/github/forks/TeamStdNetwork/Whatsapp-ChatGPT?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/TeamStdNetwork/Whatsapp-ChatGPT?color=red&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/TeamStdNetwork/Whatsapp-ChatGPT?style=for-the-badge&color=blue">
 <br>
     <img src="https://img.shields.io/badge/Author-SUNNY-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Whatsapp-ChatGPT-green.svg"></a>
-<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?style=flat-square"></a>
-<a href="https://StdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUNNY-green.svg"></a>
+<a href="https://TeamStdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Whatsapp-ChatGPT-green.svg"></a>
+<a href="https://TeamStdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?style=flat-square"></a>
+<a href="https://TeamStdNetwork.blogspot.com/hack-install-free-fire-phishing-tool-with-termux/"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUNNY-green.svg"></a>
 </p>
 
 ##
@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 <p align="center">
 
-![unnamed (2)](https://StdNetwork.blogspot.com/)
+![unnamed (2)](https://TeamStdNetwork.blogspot.com/)
 
 </p>
 
@@ -85,7 +85,7 @@ apt install git -y
 apt install nano -y
 apt install nodejs -y
 apt install nodejs-lts -y
-git clone https://github.com/StdNetwork/Whatsapp-ChatGPT 
+git clone https://github.com/TeamStdNetwork/Whatsapp-ChatGPT 
 cd Whatsapp-ChatGPT 
 npm install 
 nano api.json
@@ -93,7 +93,7 @@ node index.js
 ```
 
 
-Visit: https://StdNetwork.blogspot.com <br>
+Visit: https://TeamStdNetwork.blogspot.com <br>
 
 # How to get OpenAI API?
 Visit: https://beta.openai.com/account/api-keys
